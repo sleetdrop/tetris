@@ -1,0 +1,36 @@
+# Swift
+.build/
+*.xcodeproj
+DerivedData/
+*.swiftpm
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# App bundle
+Tetris.app/
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.so
+*.dSYM
+
+# Logs
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# Xcode
+xcuserdata/
